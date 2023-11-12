@@ -1,4 +1,4 @@
-from project4 import IPInfoApp
+from iplocator import IPInfoApp
 import requests
 import tkinter as tk
 from tkinter import ttk
